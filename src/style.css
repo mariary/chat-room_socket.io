@@ -88,7 +88,7 @@ body {
     background: none;
     border: none;
     background: #fff;
-    background-image: url("/send.svg");
+    background-image: url("/src/send.svg");
     background-size: 20px 30px;
     opacity: 0.8;
     background-repeat: no-repeat;
